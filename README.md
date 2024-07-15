@@ -20,32 +20,31 @@ AI Image Social is a web-based platform that allows users to create and post AI-
     bash
     
     Copy code
-    
-    `git clone https://github.com/akngngr/ai-image-social.git
-    cd ai-image-social` 
-    
-2.  Install dependencies:
+    ```
+    git clone https://github.com/akngngr/ai-image-social.git
+    cd ai-image-social    
+
+3.  Install dependencies:
     
     bash
     
     Copy code
-    
-    `cd client
+    ```
+    cd client
     npm install
     cd ../server
-    npm install` 
-    
-3.  Start the development server:
+    npm install    
+
+4.  Start the development server:
     
     bash
     
     Copy code
     
-    `cd client
-    npm start
-    cd ../server
-    npm start` 
-    
+    `cd client`
+    `npm start`
+    `cd ../server`
+    `npm start`    
 
 ## Usage
 
