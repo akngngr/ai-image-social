@@ -1,3 +1,4 @@
+
 # AI Image Social
 
 ## Project Overview
@@ -16,24 +17,19 @@ AI Image Social is a web-based platform that allows users to create and post AI-
 ## Installation
 
 1.  Clone the repository:
-    
-    bash
 
     ```
     git clone https://github.com/akngngr/ai-image-social.git
     cd ai-image-social    
 3.  Install dependencies:
     
-    bash
-    
+
     ```
     cd client
     npm install
     cd ../server
     npm install    
 4.  Start the development server:
-    
-    bash
 
     ```   
     cd client
@@ -47,14 +43,6 @@ AI Image Social is a web-based platform that allows users to create and post AI-
 3.  Share your image with the community.
 4.  Interact with posts by liking, commenting, and collaborating.
 
-## Screenshots
-
-### Home Page
-
-### Image Generation
-
-### Social Interaction
-
 ## Technologies Used
 
 -   **Frontend:** React, Redux, CSS
@@ -66,21 +54,15 @@ AI Image Social is a web-based platform that allows users to create and post AI-
 
 1.  Fork the repository.
 2.  Create a new branch:
-    
-    bash
-        
+
     `git checkout -b feature-branch` 
     
 3.  Commit your changes:
-    
-    bash
-        
+
     `git commit -m "Add some feature"` 
     
 4.  Push to the branch:
-    
-    bash
-        
+
     `git push origin feature-branch` 
     
 5.  Open a pull request.
